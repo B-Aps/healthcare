@@ -96,7 +96,7 @@ button:hover {
   z-index: 1;
   background: #FFFFFF;
   max-width: 300px;
-  margin: 0 auto 100px;
+  margin: 0 auto 0px;
   padding: 45px;
   text-align: center;
   background-color:blue;
@@ -143,7 +143,7 @@ margin-top:-15px;
       <button type="button" class="signinbtn"><font size="3" face="sans-serif">SignIn</font></button>
       
       </div>
-     Not registered? <a href="Register.jsp"><font size="3" color="white" face="comic sans ms"> Sign Up!</font></a></p>
+     Not registered? <a href="Test.jsp"><font size="3" color="white" face="comic sans ms"> Sign Up!</font></a></p>
       <a href="#dee"><font size="3" color="white" face="comic sans ms"> Forgot password?</font></a></p>
  </div>
  </div>

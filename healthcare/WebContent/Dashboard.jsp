@@ -11,8 +11,10 @@
  -->        <style type="text/css">
         body{
 	 background-image:url('./img/pata.jpg');
-    background-position:center;
-    background-size:cover; 
+   background-size:cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 @CHARSET "ISO-8859-1";
 *{
@@ -28,9 +30,9 @@
     padding: 60px;   
 }
 .team-section h1{
-    margin-bottom: 40px;
+    margin-bottom: 60px;
     color: #fff;
-    font-size: 50px;
+    font-size: 45px;
     font-family: sans-serif;
 }
 .border{
@@ -81,11 +83,7 @@
     text-transform: uppercase;
     font-size: 22px;
 }
-
-
-
-
-        </style>
+</style>
     </head>
     <body>
         <div class="team-section">

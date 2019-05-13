@@ -8,7 +8,7 @@
 </head>
 <style>
 body {
-background-image: url("./img/bear.jpg");
+background-image: url("./img/care.png");
 background-size:cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -97,7 +97,7 @@ filter: blur(8px);
   display: table;
 }
 .form {
-  transform: translate(80%,0%);
+  transform: translate(0%,0%);
   position: relative;
   z-index: 1;
   background: #FFFFFF;
@@ -108,7 +108,7 @@ filter: blur(8px);
   color:gray;
   border-radius:20px;
   border:none;
-  background: rgba(255,255,255,0.8);
+  background: rgba(255,255,255,0.9);
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24); */
 }
 /* Change styles for cancel button and signup button on extra small screens */

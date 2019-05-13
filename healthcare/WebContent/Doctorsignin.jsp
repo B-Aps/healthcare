@@ -8,7 +8,7 @@
 </head>
 <style>
 body {
-background-image: url("./img/nurse.jpg");
+background-image: url("./img/1.jpg");
 background-size:cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -93,7 +93,7 @@ button:hover {
 }
 .form {
   position: relative;
-  transform: translate(130%,-15%);
+  transform: translate(-60%,-15%);
   z-index: 1;
   background: #FFFFFF;
   max-width: 300px;
